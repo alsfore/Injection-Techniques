@@ -1,5 +1,4 @@
-# Injection Techniques - Fore <3
-
+![gif header](assets/lain.gif)  
 ```
 // present day. present time. hahahaha.
 
